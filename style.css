@@ -1,8 +1,8 @@
-* {
+body {
+	font-family: sans-serif;
+	text-align: center;
 }
 
-body {
-	font-family: 'Roboto', sans-serif;
-
-	text-align: center;
+p {
+	font-size: 30px;
 }
