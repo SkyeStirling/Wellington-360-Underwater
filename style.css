@@ -1,0 +1,71 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+
+    background image : ("file:///Users/skye/Desktop/Header image.png"); 
+
+}
+
+p {
+	font-size: 30px;
+}
+
+#map {
+	margin: auto;
+	background-image: url("Mapimage.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 1200px;
+	height: 900px;
+	position: relative;
+}
+
+.diveButton {
+	transition: all ease 0.5s;
+	position: absolute;
+}
+
+#image1 {
+	left:550px;
+	top: 630px;
+
+}
+
+#image2 {
+	left:600px;
+	top: 400px;
+}
+
+#image3 {
+	left:350px;
+	top: 530px;
+}
+
+#image4 {
+	left:430px;
+	top: 380px;
+}
+
+#image1:hover {
+	top: 610px;
+	cursor: pointer;
+}
+
+#image2:hover {
+	top: 380px;
+	cursor: pointer;
+}
+
+#image3:hover {
+	top: 510px;
+	cursor: pointer;
+}
+
+#image4:hover {
+	top: 360px;
+	cursor: pointer;
+}
+
+
+
+
